@@ -77,58 +77,6 @@ Orbuculum's potential extends far beyond the reinvention of the GIS/EO research 
 * [ChatGPT and other language models](38_chatgpt_and_llms.md)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+----
+- *Logo created with* [*Brandmark*](https://app.brandmark.io/v3/)
 
