@@ -26,7 +26,7 @@ Training data can be hard to acquire, particularly for rare events such as chang
 
   37.12. [Combining Synthetic Data with Real Data to Improve Detection Results in Satellite Imagery: Case Study](https://one-view.ai/combining-synthetic-data-with-real-data-to-improve-detection-results-in-satellite-imagery-case-study/)
 
-  37.13. [SynImageAnalysis](https://github.com/FlorenceJiang/SynImageAnalysis) -> comparing syn and real sattlelite images in the latent feature space (embeddings)
+  37.13. [SynImageAnalysis](https://github.com/FlorenceJiang/SynImageAnalysis) -> comparing syn and real satellite images in the latent feature space (embeddings)
 
   37.14. [Import OpenStreetMap data into Unreal Engine 4](https://github.com/ue4plugins/StreetMap)
 
